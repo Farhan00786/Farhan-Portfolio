@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/farhan-Portfolio/static/css/main.8123a9fd.css",
+    "main.js": "/farhan-Portfolio/static/js/main.df852cc2.js",
+    "static/media/projectFive.png": "/farhan-Portfolio/static/media/projectFive.aa3cd00efc2755548ea6.png",
+    "static/media/projectFour.png": "/farhan-Portfolio/static/media/projectFour.0eac3ac0285654ba4d95.png",
+    "static/media/projectOne.png": "/farhan-Portfolio/static/media/projectOne.7d4e6ea5f38797651aca.png",
+    "static/media/bannerImg.png": "/farhan-Portfolio/static/media/bannerImg.cd3e52064e9599054346.png",
+    "static/media/projectSix.png": "/farhan-Portfolio/static/media/projectSix.849038a0fbc85fc1d5a5.png",
+    "static/media/contactImg.png": "/farhan-Portfolio/static/media/contactImg.8ddfbfd11798f881db54.png",
+    "static/media/projectTwo.png": "/farhan-Portfolio/static/media/projectTwo.897dc1112cb82896b1bd.png",
+    "static/media/testimonialOne.png": "/farhan-Portfolio/static/media/testimonialOne.c4706b2d1cadcb9f4daf.png",
+    "static/media/testimonialTwo.png": "/farhan-Portfolio/static/media/testimonialTwo.c6df2773c486964035d9.png",
+    "static/media/projectThree.png": "/farhan-Portfolio/static/media/projectThree.ddc50b22d01457753ae2.png",
+    "index.html": "/farhan-Portfolio/index.html",
+    "main.8123a9fd.css.map": "/farhan-Portfolio/static/css/main.8123a9fd.css.map",
+    "main.df852cc2.js.map": "/farhan-Portfolio/static/js/main.df852cc2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8123a9fd.css",
+    "static/js/main.df852cc2.js"
+  ]
+}
